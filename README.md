@@ -1,6 +1,6 @@
 This repository contains weekly tasks, reports, and attendance for the Jul–Aug 2025 internship.
 
-# Folder Structure
+# 📁Folder Structure
 * Week-1_MITRE-TTP-Mapping – Threat analysis, YARA, MISP
 * Week-2_Malware-IOC-APT28 – IOC feeds, malware reports
 * Week-3_Linux-Privesc – Privilege escalation
