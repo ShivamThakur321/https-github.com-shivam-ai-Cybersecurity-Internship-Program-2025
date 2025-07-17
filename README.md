@@ -6,14 +6,14 @@ This repository contains weekly tasks, reports, and attendance for the Jul–Aug
 * Week-3_Linux-Privesc – Privilege escalation
 * Attendance – Weekly attendance with flags and screenshots
 
-# Deliverables
+# 📊Deliverables
 * Threat reports
 * IOC + YARA rules
 * Screenshots
 * Final report
 * GitHub documentation
 
-# Lab Platforms Used
+# 🔗Lab Platforms Used
 * TryHackMe
 * OverTheWire
 * HackThisSite
